@@ -1,0 +1,13 @@
+.dart_tool/
+.idea/
+.vscode/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+*.iml
+*.g.dart
+.DS_Store
+android/.gradle/
+ios/Pods/
+ios/.symlinks/

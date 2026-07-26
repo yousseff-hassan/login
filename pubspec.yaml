@@ -1,0 +1,28 @@
+name: flutter_login_ui
+description: A clean and responsive login screen built with Flutter.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+  # لو هتضيف خط مخصص زي Cairo حط ملفاته في assets/fonts وفعل السطور دي
+  # fonts:
+  #   - family: Cairo
+  #     fonts:
+  #       - asset: assets/fonts/Cairo-Regular.ttf
+  #       - asset: assets/fonts/Cairo-Bold.ttf
+  #         weight: 700
