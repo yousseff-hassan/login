@@ -8,6 +8,9 @@
 | Login Screen |
 |:---:|
 | ![Login Screen](screenshots/login.png) |
+## Demo & APK
+
+- **Download APK:** [Click here to download app-release.apk](https://drive.google.com/file/d/13EuTg15xaP2LZdYxEk8UYX06rn9IZcPm/view?usp=drive_link)
 
 ## المميزات
 
