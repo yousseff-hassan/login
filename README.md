@@ -2,13 +2,12 @@
 
 شاشة تسجيل دخول (Login Screen) متجاوبة (Responsive) اتبنيت بـ Flutter، مقسمة على شكل ويدجتس قابلة لإعادة الاستخدام (Reusable Widgets) وهيكل مجلدات نضيف وسهل التوسع فيه.
 
+
 ## Screenshots
 
-| Mobile | Tablet / Wide |
-|--------|----------------|
-| _ضيف صورة هنا_ | _ضيف صورة هنا_ |
-
-> ضيف صور الشاشة من الإيموليتور أو الموبايل جوه مجلد `screenshots/` واربطها هنا.
+| Login Screen |
+|:---:|
+| ![Login Screen](screenshots/login.png) |
 
 ## المميزات
 
