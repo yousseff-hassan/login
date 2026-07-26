@@ -47,10 +47,8 @@ class _LoginScreenState extends State<LoginScreen> {
     final screenHeight = MediaQuery.of(context).size.height;
     final screenWidth = MediaQuery.of(context).size.width;
 
-    // Header height is a percentage of screen height to stay responsive
     final headerHeight = screenHeight * 0.32;
 
-    // On wide screens (tablet/web) cap the form width so it doesn't stretch
     final maxFormWidth = screenWidth > 600 ? 460.0 : double.infinity;
 
     return Scaffold(
@@ -219,7 +217,6 @@ class _LoginScreenState extends State<LoginScreen> {
   }
 }
 
-/// Social login button (reusable inside this screen)
 class _SocialIconButton extends StatelessWidget {
   final IconData icon;
 
