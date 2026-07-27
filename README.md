@@ -63,6 +63,9 @@ flutter run
 ## Screenshot
 
 ![Login Screen](Screenshot%202026-07-26%20231013.png)
+## Download APK
+
+- **Download App APK:** [Click here to download app-release.apk](https://drive.google.com/file/d/1Zgv-qapnv5r2KUwKMEQDRFIMKTaJt6WZ/view?usp=drive_link)
 
 ## Tech
 
